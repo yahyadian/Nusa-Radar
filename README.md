@@ -1,16 +1,8 @@
-# newsapp
+## Nusa Radar
 
-A new Flutter project.
+Aplikasi Mobile Berita Online Nusa Radar untuk memenuhi tugas Desain Kreatif Aplikasi & Game dengan dosen pengampu Bapak Agus Mulyana, S.T., S.Pd., M.Kom
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama        : Yahya Dian Prastyo\
+NIM         : 21552011140\
+Kelas       : TIF RM 221 MC\
+Mata Kuliah : Desain Kreatif Aplikasi & Game
