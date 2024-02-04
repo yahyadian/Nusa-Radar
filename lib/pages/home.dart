@@ -337,7 +337,7 @@ class BlogTile extends StatelessWidget {
                           borderRadius: BorderRadius.circular(10),
                           child: CachedNetworkImage(
                             imageUrl: imageUrl,
-                            height: 100,
+                            height: 120,
                             width: 100,
                             fit: BoxFit.cover,
                           ))),
